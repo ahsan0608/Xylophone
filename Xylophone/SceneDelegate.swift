@@ -2,8 +2,8 @@
 //  SceneDelegate.swift
 //  Xylophone
 //
-//  Created by Ahsan on 8/10/20.
-//  Copyright © 2020 Ahsan.fish. All rights reserved.
+//  Created by Angela Yu on 28/06/2019.
+//  Copyright © 2019 The App Brewery. All rights reserved.
 //
 
 import UIKit
