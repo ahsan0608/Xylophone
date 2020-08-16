@@ -1,5 +1,5 @@
 # Xylophone
-This Virtual xylophone application offer high quality sounds, multi-touch chords, animation, good quality of screen resolution.
+This Virtual iOS xylophone application offer high quality sounds, multi-touch chords, animation, good quality of screen resolution.
 On this little xylophone, you can play your favorite songs, lullabies, Christmas carols, theme music or anything you want.
 
 Have fun!
